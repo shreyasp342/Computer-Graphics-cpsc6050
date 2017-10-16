@@ -1,0 +1,30 @@
+Team A:
+	Grayson Bonds
+	Caroline Bryant
+	Ryan Detweiler
+	Shreyas Prabhakar
+
+CPSC 4050/6050
+Project 3: Show Me The Bunny!!
+
+	Description:  
+		Renders a bunny inside a Cornell Box and uses Keller's Instant Radiosity to
+		render the lighting.
+		
+		Note: We added two new planes, where the original "roof" and "floor" are, but slightly offset 
+		      respectively to show more of our color bleeding. The original geometry was very dim in 
+		      comparison to our right and left walls. We felt that it was necessary to add this component 
+		      to better emulate a traditional Cornell Box.
+
+	Compiliation Instructions
+		Extract the archive and type 'make'
+
+	Execution Instruction:
+		After compilation, type './main' to execute the program.
+
+	Archive List:
+		main.c: The source code of C and OpenGL for the cornell box and bunny.
+
+		main.vert:  The GLSL vertex shader for the cornell box and bunny.
+
+		main.frag:  The GLSL fragment shader for the cornell box and bunny.
