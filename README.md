@@ -4,4 +4,4 @@
 
 Renders a bunny inside a Cornell Box and uses Keller's Instant Radiosity to render global illumination.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Cornell Box")
+![alt text](https://github.com/shreyasp342/Computer-Graphics-cpsc6050/project3/screenshot.png "Cornell Box")
